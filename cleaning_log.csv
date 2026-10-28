@@ -1,0 +1,7 @@
+Step,Rows remaining,Rows removed in step
+Raw rows,541909,0
+After removing exact duplicate rows,536641,5268
+After removing cancelled invoices,527390,9251
+After removing rows without CustomerID,392732,134658
+After removing zero/negative quantity or price,392692,40
+"After removing non-product codes (postage, fees, manual)",391150,1542
